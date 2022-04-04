@@ -657,6 +657,17 @@
             "webUrl":"https://egame.qq.com/livelist?layoutid=2000000110",
             "webOpen":true,
             "click":true
+        },
+	{
+          "name":"许先生音乐",
+          "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+          "keyDownPlay":false,
+          "keyUpPlay":false,
+          "userAgent":"PC",
+          "ads":"",
+          "webUrl":"http://www.xushen.ltd/music",
+          "webOpen":true,
+          "click":true
         }
     ]
 }
