@@ -668,6 +668,17 @@
           "webUrl":"http://www.xushen.ltd/music",
           "webOpen":true,
           "click":true
+        },
+	{
+          "name":"许先生音乐",
+          "pic":"https://xushen.ltd/6186e908959ebfdf86917673bdfd8d80",
+          "keyDownPlay":false,
+          "keyUpPlay":false,
+          "userAgent":"PC",
+          "ads":"",
+          "webUrl":"https://music.heiya123.com",
+          "webOpen":true,
+          "click":true
         }
     ]
 }
